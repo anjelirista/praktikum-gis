@@ -1,0 +1,15 @@
+# File python yang tidak perlu dilacak 
+__pycache__/
+*.pyv
+.env
+
+#File GIS berukuran besar
+*.tif
+*.tiff
+*.img
+data/raw/
+
+# Folder hasil output program
+output/
+
+
