@@ -1,0 +1,14 @@
+# file python yang tidak perlu dilacak
+__pycache__/
+*.pyc
+.env
+# file GIS berukuran besar 
+*.tif
+*.tiff
+*.img
+data/raw/
+# folder hasil output program
+output/
+# file sistem operasi 
+.DS_Store
+Thumbs.db
